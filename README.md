@@ -1,7 +1,6 @@
 **PROJETO LABEFOOD**
 
--  link do projeto:
--  https://purring-joke.surge.sh/
+-  link do projeto: https://lethal-bed.surge.sh/
 
 - funcionalidades de login e cadastro
 
