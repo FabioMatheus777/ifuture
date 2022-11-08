@@ -9,15 +9,13 @@
 
 ![cadastro](https://user-images.githubusercontent.com/84349841/183542140-b47eaf66-b46d-4ae2-8984-5b4a2de6a0b0.png)
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 - [x]  o usuário pode adicionar um endereço à conta cadastrada, caso não adicione não conseguirá acessar o feed e fazer pedidos
 
 ![cadastro endereco](https://user-images.githubusercontent.com/84349841/183542181-5c17e926-9e78-4db3-adc3-51e8792b3d20.png)
 
 - [x]  o usuário pode fazer login usando o email e senha cadastrados
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 ![Sem título](https://user-images.githubusercontent.com/84349841/183541995-1c5ef9ed-c745-4e75-b0e3-1e4862b1037f.png)
 
 - [x]  lista de restaurantes na página inicial
