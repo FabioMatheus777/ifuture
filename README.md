@@ -1,6 +1,6 @@
 **PROJETO LABEFOOD**
 
--  link do surge:
+-  link do projeto:
 -  https://purring-joke.surge.sh/
 
 - funcionalidades de login e cadastro
